@@ -1,7 +1,6 @@
 import React from 'react';
 import { ChakraProvider, Box, Text, Heading, Container } from '@chakra-ui/react';
-import AssessmentComponent from './assessment-component';
-
+import AssessmentComponent from './AssessmentComponent';
 function App() {
   return (
     <ChakraProvider>
